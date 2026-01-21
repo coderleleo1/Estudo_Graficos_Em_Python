@@ -1,0 +1,9 @@
+Nome,Idade,Profissão,Salário,Limite_Credito,Historico_Inadimplencia,Estado_Civil,Imovel_Proprio
+Alice,25,Engenheiro,4500,2500,0,Casamento,0
+Joao,30,Médico,8000,4000,0,Casamento,0
+Charlie,35,Professor,5000,4000,0,Solteiro,0
+David,40,Advogado,10000,1000,1,Solteiro,1
+Eva,45,Médico,12000,10000,0,Casamento,1
+Diego,60,Engenheiro,15000,2000,1,Solteiro,1
+Denize,22,Estudante,1200,500,0,Solteiro,0
+Claudio,24,Estudante,1500,250,1,Solteiro,0
